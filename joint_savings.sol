@@ -77,7 +77,8 @@ contract JointSavings {
         public
     {
         // Set the values of `accountOne` and `accountTwo` to `account1` and `account2` respectively.
-        // YOUR CODE HERE!
+        accountOne = account1;
+        accountTwo = account2;
     }
 
     /*
